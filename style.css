@@ -7,9 +7,13 @@ header {
 }
 
 section {
-	background-color: 'green';
+	background-color: 'yellow';
 }
 
 footer {
 	background-color: 'blue';
+}
+
+html {
+	margin: 0;
 }
