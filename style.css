@@ -13,3 +13,17 @@ section {
 footer {
 	background-color: 'blue';
 }
+
+ul {
+	display: inline-block;
+    padding: 0;
+}
+
+li {
+	display: inline-block;
+    height: 20px;
+    min-width: 100px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
