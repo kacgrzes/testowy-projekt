@@ -1,17 +1,17 @@
 body {
-	background-color: 'lightblue'
+	background-color: lightblue
 }
 
 header {
-	background-color: 'yellow';
+	background-color: yellow;
 }
 
 section {
-	background-color: 'blue';
+	background-color: blue;
 }
 
 footer {
-	background-color: 'blue';
+	background-color: blue;
 }
 
 ul {
@@ -37,4 +37,8 @@ html {
 	margin: 0 auto;
 	background-color: aquamarine;
 	height: 100vh;
+}
+
+.wrapper {
+	background-color: lightgreen;
 }
