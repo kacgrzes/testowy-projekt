@@ -31,3 +31,10 @@ li {
 html {
 	margin: 0;
 }
+
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+	background-color: aquamarine;
+	height: 100vh;
+}
